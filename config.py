@@ -1,8 +1,8 @@
 # 公众号配置
 # 公众号appId
-app_id = "wx3a2fa255a8e3cdef"
+app_id =wx3a2fa255a8e3cdef
 # 公众号appSecret
-app_secret = "790ea4487a0b7ef3e359d81fd47d8ddd"
+app_secret =790ea4487a0b7ef3e359d81fd47d8ddd
 # 模板消息id
 # 每日消息
 template_id1 = "S9VnqsAtZ9_qE_fPt2eJqFEk5AipzKqv6zthIlSDJeM"
